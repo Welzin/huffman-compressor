@@ -1,0 +1,8 @@
+#! /bin/sh
+
+if [ $# -eq 1 ]
+then
+    ./build/dehuf $1
+else
+    ./build/dehuf $1 > $2
+fi

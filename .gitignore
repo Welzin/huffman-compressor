@@ -1,0 +1,15 @@
+# Emacs temporary files
+*~
+\#*
+
+# Folders
+*build*
+projet_doc
+*__pycache__*
+
+# Compressed files
+*.huf
+*.par
+
+# Par executable
+par
